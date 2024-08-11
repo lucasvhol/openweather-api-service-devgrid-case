@@ -136,7 +136,7 @@ Note: If you're using Docker, the requirements will be automatically installed i
 
 1. Clone the repository:
    ```
-   git clone https://github.com/lucasvhol/Weather-Service-API-DevGrid.git
+   git clone https://github.com/lucasvhol/openweather-api-service-devgrid-case.git
    cd weather-service
    ```
 
